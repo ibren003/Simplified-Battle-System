@@ -1,0 +1,13 @@
+c:\users\ibren\documents\visual studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\bin\Debug\Super Simplified Basic Battle System.exe.config
+C:\Users\ibren\Documents\Visual Studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\bin\Debug\Super Simplified Basic Battle System.exe
+C:\Users\ibren\Documents\Visual Studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\bin\Debug\Super Simplified Basic Battle System.pdb
+C:\Users\ibren\Documents\Visual Studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\obj\Debug\Super Simplified Basic Battle System.csprojResolveAssemblyReference.cache
+C:\Users\ibren\Documents\Visual Studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\obj\Debug\Super Simplified Basic Battle System.exe
+C:\Users\ibren\Documents\Visual Studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\obj\Debug\Super Simplified Basic Battle System.pdb
+C:\Users\ibren\Documents\Visual Studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\obj\Debug\Super_Simplified_Basic_Battle_System.Properties.Resources.resources
+C:\Users\ibren\Documents\Visual Studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\obj\Debug\Super Simplified Basic Battle System.csproj.GenerateResource.Cache
+C:\Users\ibren\documents\visual studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\bin\Debug\Blinded by Light FFXIII Use.wav
+C:\Users\ibren\documents\visual studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\bin\Debug\The Price is Right losing horn lose.mp3
+C:\Users\ibren\documents\visual studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\bin\Debug\The_Price_is_Right_losing_horn_lose.wav
+C:\Users\ibren\documents\visual studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\obj\Debug\Interop.WMPLib.dll
+C:\Users\ibren\documents\visual studio 2015\Projects\Super Simplified Basic Battle System\Super Simplified Basic Battle System\obj\Debug\Super Simplified Basic Battle System.csproj.ResolveComReference.cache
